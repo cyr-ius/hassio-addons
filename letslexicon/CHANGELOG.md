@@ -56,3 +56,8 @@
 ## [3.1.2] - 2025-01-22
 ### Changed
 - Force default current version of dns-lexicon because of build pipeline issue
+
+
+## [3.1.3] - 2025-06-10
+### Changed
+- Add resolve-zone-name to add sub-domain
